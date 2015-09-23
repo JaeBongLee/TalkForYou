@@ -1,0 +1,436 @@
+{
+  "기본 인사편": [
+    {
+      "korean": "안녕하세요.",
+      "japanese": "こんにちは.",
+      "chinese": "您好.",
+      "english": "Hello."
+    },
+    {
+      "korean": "수고하세요.",
+      "japanese": "がんばってください.",
+      "chinese": "您辛苦.",
+      "english": "Good day."
+    },
+    {
+      "korean": "실례합니다.",
+      "japanese": "失礼します.",
+      "chinese": "不好意思.",
+      "english": "Excuse me."
+    },
+    {
+      "korean": "부탁합니다.",
+      "japanese": "お願いします.",
+      "chinese": "拜托您.",
+      "english": "Please."
+    },
+    {
+      "korean": "고맙습니다.",
+      "japanese": "ありがとうございます.",
+      "chinese": "谢谢您.",
+      "english": "Thank you."
+    },
+    {
+      "korean": "괜찮습니다.",
+      "japanese": "大丈夫です.",
+      "chinese": "没事.",
+      "english": "That''s all right."
+    },
+    {
+      "korean": "이건 뭐예요?",
+      "japanese": "これは何ですか.",
+      "chinese": "这是什么？",
+      "english": "What''s this?"
+    },
+    {
+      "korean": "몇 시에 문을 열어요?",
+      "japanese": "何時、開店ですか.",
+      "chinese": "几点开门？",
+      "english": "What time do you open?"
+    },
+    {
+      "korean": "지금 몇 시예요?",
+      "japanese": "いま、何時なんじですか.",
+      "chinese": "现在几点了？",
+      "english": "Do you have the time?"
+    },
+    {
+      "korean": "밖의 날씨는 어때요?",
+      "japanese": "外の天気はどうですか.",
+      "chinese": "外面天气怎么样？",
+      "english": "What''s the weather like today?"
+    }
+  ],
+  "교통편": [
+    {
+      "korean": "요금이 얼마죠?",
+      "japanese": "料金はいくらですか.",
+      "chinese": "多少钱？",
+      "english": "How much is the fare?"
+    },
+    {
+      "korean": "편도인가요, 왕복인가요?",
+      "japanese": "片道ですか。往復ですか.",
+      "chinese": "您想订单程的，还是往返的？",
+      "english": "One-way, or round-trip?"
+    },
+    {
+      "korean": "예약을 확인하고 싶어요.",
+      "japanese": "予約の確認をしたいんですが.",
+      "chinese": "想确认一下我的预订.",
+      "english": "I''d like to confirm my reservation."
+    },
+    {
+      "korean": "예약을 변경하고 싶어요.",
+      "japanese": "予約の変更をお願いします.",
+      "chinese": "我想改签一下机票.",
+      "english": "I''d like to change my reservation."
+    },
+    {
+      "korean": "입국신고서를 한 장 더 주세요.",
+      "japanese": "入国にゅうこくカードをもう1枚いちまいください.",
+      "chinese": "请再给我一张入境卡.",
+      "english": "Can I have one more arrival card?"
+    },
+    {
+      "korean": "무선인터넷을 사용하고 싶어요.",
+      "japanese": " 無線インターネットを使いたいんですが.",
+      "chinese": "我想使用无线网络.",
+      "english": "I''d like to use wireless internet."
+    },
+    {
+      "korean": "식사는 언제 나오나요?",
+      "japanese": "食事は、いつ出るんですか.",
+      "chinese": "飞机餐什么时候提供？",
+      "english": "When will meals be served?"
+    },
+    {
+      "korean": "공중화장실은 어디 있나요?",
+      "japanese": "公衆トイレはどこですか",
+      "chinese": "公厕在哪儿？",
+      "english": "Where are the public toilets?"
+    },
+    {
+      "korean": "어디서 환전하나요?",
+      "japanese": "どこで両替ができますか.",
+      "chinese": "在哪儿能换钱？",
+      "english": "Where can I exchange money?"
+    },
+    {
+      "korean": "속이 안 좋아요.",
+      "japanese": "気分きぶんが悪わるくなってきました.",
+      "chinese": "我有点晕机.",
+      "english": "I feel sick."
+    }
+  ],
+  "숙소편": [
+    {
+      "korean": "체크인을 하고 싶습니다.",
+      "japanese": "チェックイン、お願いします.",
+      "chinese": "我想办理入住手续.",
+      "english": "I''d like to check in."
+    },
+    {
+      "korean": "짐을 방까지 좀 부탁해요.",
+      "japanese": "荷物にもつを部屋へやまで、お願ねがいします.",
+      "chinese": "请把我的行李送到房间去.",
+      "english": "Could you bring my luggage up to the room?"
+    },
+    {
+      "korean": "제 이름으로 예약했습니다.",
+      "japanese": "私の名前で予約しました.",
+      "chinese": "是用我的名字预订的.",
+      "english": "It''s in my name."
+    },
+    {
+      "korean": "하룻밤에 얼마인가요?",
+      "japanese": "1晩いくらですか.",
+      "chinese": "一个晚上多少钱？",
+      "english": "How much is it a night?"
+    },
+    {
+      "korean": "아침 식사는 언제 할 수 있나요?",
+      "japanese": "朝食は、いつできますか.",
+      "chinese": "早餐什么时候能吃？",
+      "english": "When do you serve breakfast?"
+    },
+    {
+      "korean": "방에 열쇠를 둔 채 문을 잠궜습니다.",
+      "japanese": "部屋の中にキーを置いたまま、ドアを閉てしまいました.",
+      "chinese": "我把钥匙落在房间里就锁上门了.",
+      "english": "I''ve locked myself out and my key is in the room."
+    },
+    {
+      "korean": "수건을 더 주세요.",
+      "japanese": "タオルをもう少しください.",
+      "chinese": "请再给我几条毛巾.",
+      "english": "Could I have more towels?"
+    },
+    {
+      "korean": "옆 방이 너무 시끄러워요.",
+      "japanese": "となりの部屋がとてもうるさいです.",
+      "chinese": "隔壁太吵了.",
+      "english": "The room next to mine is making too much noise."
+    },
+    {
+      "korean": "다른 방으로 바꿔 주세요.",
+      "japanese": "ほかの部屋へやに替かえてください.",
+      "chinese": "请给我换一个房间.",
+      "english": "I''d like to change rooms, please."
+    },
+    {
+      "korean": "저녁까지 제 짐을 보관해 주실 수 있어요?",
+      "japanese": "夕方まで、荷物を預あずかってもらえますか.",
+      "chinese": "能把我的行李保管到晚上吗？",
+      "english": "Could you keep my luggage until this evening?"
+    }
+  ],
+  "식당편": [
+    {
+      "korean": "이 근처에 괜찮은 식당이 어디예요?",
+      "japanese": "近くにどこか、いい食堂ありますか.",
+      "chinese": "这儿附近哪儿有不错的餐厅？",
+      "english": "Are there any good restaurants around here?"
+    },
+    {
+      "korean": "이 근처에 한국 식당이 있어요?",
+      "japanese": "この近くに韓国料理店ありますか.",
+      "chinese": "这儿附近有韩国餐厅吗?",
+      "english": "Are there any Korean restaurants around here?"
+    },
+    {
+      "korean": "얼마나 기다려야 해요?",
+      "japanese": "どれぐらい待たないといけませんか.",
+      "chinese": "要等多长时间？",
+      "english": "How long will it take?"
+    },
+    {
+      "korean": "이 집에서 가장 인기 있는 메뉴는 뭐예요?",
+      "japanese": "この店で、いちばん人気のあるメニューは何ですか.",
+      "chinese": "你们这儿最受欢迎的是什么？",
+      "english": "What do you recommend here?"
+    },
+    {
+      "korean": "여기 주문 받아 주세요.",
+      "japanese": "注文お願いします.",
+      "chinese": "我们要点菜.",
+      "english": "We''d like to order, please."
+    },
+    {
+      "korean": "좀 있다가 주문할게요.",
+      "japanese": "少ししてから注文します.",
+      "chinese": "等一会儿再点菜.",
+      "english": "Give us a little more time."
+    },
+    {
+      "korean": "여기를 좀 치워 주세요.",
+      "japanese": "ここをちょっと片づけてください.",
+      "chinese": "请把这儿收拾一下.",
+      "english": "Could you clean this up?"
+    },
+    {
+      "korean": "계산서 주세요.",
+      "japanese": "お勘定お願いします.",
+      "chinese": "请给我账单.",
+      "english": "Check, please."
+    },
+    {
+      "korean": "따로 계산해 주세요.",
+      "japanese": "別々に計算してください.",
+      "chinese": "请分开算.",
+      "english": "Can we pay separately?"
+    },
+    {
+      "korean": "여기 남은 음식을 포장해 주세요.",
+      "japanese": "残った食べ物を包んでください.",
+      "chinese": "剩下的菜请给我打一下包.",
+      "english": "Can I get a doggie bag?"
+    }
+  ],
+  "쇼핑편": [
+    {
+      "korean": "가장 인기 있는 건 어떤 거예요?",
+      "japanese": "いちばん人気があるのは、どれですか",
+      "chinese": "卖得最好的是哪个商品？",
+      "english": "What is the most popular?"
+    },
+    {
+      "korean": "이거 입어 봐도 됩니까?",
+      "japanese": "これ、着てみてもいいですか.",
+      "chinese": "这个可以试穿一下吗？",
+      "english": "Can I try this on?"
+    },
+    {
+      "korean": "좀 깎아 주세요.",
+      "japanese": "安くしてください.",
+      "chinese": "便宜点吧.",
+      "english": "Could you give me a discount?"
+    },
+    {
+      "korean": "이건 얼마예요?",
+      "japanese": "これ、いくらですか.",
+      "chinese": "这个多少钱？",
+      "english": "How much is it?"
+    },
+    {
+      "korean": "이 가격이 할인 가격이에요?",
+      "japanese": "これはセール価格ですか.",
+      "chinese": "这个价格是打折价格吗？",
+      "english": "Is this the sale price?"
+    },
+    {
+      "korean": "계산이 잘못 된 것 같아요.",
+      "japanese": "計算がまちがってるみたいです.",
+      "chinese": "钱好像算错了.",
+      "english": "I think the calculation is not done right."
+    },
+    {
+      "korean": "비행기에 가지고 탈 수 있어요?",
+      "japanese": "飛行機に、持って乗れますか.",
+      "chinese": "能带上飞机吗？",
+      "english": "Can I carry it on board?"
+    },
+    {
+      "korean": "기념품 가게는 어디에 있어요?",
+      "japanese": "記念品売場はどこですか.",
+      "chinese": "纪念品店在哪儿?",
+      "english": "Where is the souvenir shop?"
+    },
+    {
+      "korean": "선물 포장을 해 주세요.",
+      "japanese": "贈り物の包装をしてください.",
+      "chinese": "请把礼物包装一下.",
+      "english": "Please gift-wrap it."
+    },
+    {
+      "korean": "쇼핑 센터는 어느 방향이에요?",
+      "japanese": "ショッピングセンターはどっちですか.",
+      "chinese": "购物中心往哪个方向走？",
+      "english": "Which way is the shopping center?"
+    }
+  ],
+  "지도편": [
+    {
+      "korean": "여기가 이 지도에서 어디예요?",
+      "japanese": "ここは、この地図で、どの辺ですか.",
+      "chinese": "这里在地图上是哪儿?",
+      "english": "Where am I on the map?"
+    },
+    {
+      "korean": "거기까지 가는 데 얼마나 걸릴까요?",
+      "japanese": "そこまで、どのぐらいかかりますか.",
+      "chinese": "走到那儿得多长时间？",
+      "english": "How long will it take to get there?"
+    },
+    {
+      "korean": "지금 안내 방송에서 무슨 역이라고 했어요?",
+      "japanese": "いま案内放送で、何駅だと言いましたか.",
+      "chinese": "现在广播说是哪一站？",
+      "english": "What station did the announcement say this was?"
+    },
+    {
+      "korean": "그곳에 도착하면 제게 알려 주시겠어요?",
+      "japanese": "そこに到着したら、私に知らせてくれますか.",
+      "chinese": "到站能不能告诉我一声？",
+      "english": "Will you let me know when we get there?"
+    },
+    {
+      "korean": "어디서 지하철을 탈 수 있을까요?",
+      "japanese": "どこで地下鉄に乗れますか.",
+      "chinese": "在哪儿能坐地铁？",
+      "english": "Where can I take the subway?"
+    },
+    {
+      "korean": "지하철 노선도를 주세요.",
+      "japanese": "地下鉄の路線図、ください.",
+      "chinese": "请给我一张地铁路线图.",
+      "english": "I''d like a map of the subway, please."
+    },
+    {
+      "korean": "어느 역에서 갈아타야 해요?",
+      "japanese": "どの駅で乗換えるんですか.",
+      "chinese": "要在哪站换乘？",
+      "english": "Where do I transfer?"
+    },
+    {
+      "korean": "1번 출구가 어디예요?",
+      "japanese": "1番出口はどこですか.",
+      "chinese": "1号出口在哪儿？",
+      "english": "Where is exit number one?"
+    },
+    {
+      "korean": "요금이 어떻게 돼요?",
+      "japanese": "料金は、いくらですか.",
+      "chinese": "车费是多少钱？",
+      "english": "How much is the fare?"
+    },
+    {
+      "korean": "여기에 세워 주세요.",
+      "japanese": "ここに止めてください.",
+      "chinese": "请在这儿停车.",
+      "english": "Please stop here."
+    }
+  ],
+  "관광편": [
+    {
+      "korean": "무료 지도가 있어요?",
+      "japanese": "無料マップ、ありますか.",
+      "chinese": "有没有免费地图?",
+      "english": "Do you have a free map?"
+    },
+    {
+      "korean": "입장료는 얼마예요?",
+      "japanese": "入場料はいくらですか.",
+      "chinese": "门票多少钱？",
+      "english": "How much is the admission fee?"
+    },
+    {
+      "korean": "몇 시부터 몇 시까지 해요?",
+      "japanese": "何時から何時までですか.",
+      "chinese": "从几点到几点？",
+      "english": "What are opening hours?"
+    },
+    {
+      "korean": "사진을 좀 찍어 주시겠어요?",
+      "japanese": "写真を撮ってくれますか.",
+      "chinese": "您能给我们照张相吗？",
+      "english": "Would you take a picture of me?"
+    },
+    {
+      "korean": "플래시를 써도 돼요?",
+      "japanese": "フラッシュを使ってもいいですか.",
+      "chinese": "可以用闪光灯吗？",
+      "english": "Can I use flash?"
+    },
+    {
+      "korean": "이 여행 프로그램은 시간이 얼마나 걸려요?",
+      "japanese": "この旅行プログラムは、時間がどれぐらいかかりますか.",
+      "chinese": "这个游览项目需要多长时间？",
+      "english": "How long does the tour program last?"
+    },
+    {
+      "korean": "프로그램은 매일 있어요?",
+      "japanese": "プログラムは、毎日ありますか.",
+      "chinese": "活动每天都有吗？",
+      "english": "Do you run the program every day?"
+    },
+    {
+      "korean": "관광할 만한 다른 곳은 없어요?",
+      "japanese": "観光にいい、ほかのところはありませんか.",
+      "chinese": "有没有别的值得看看的地方？",
+      "english": "Are there any other places good for sight-seeing?"
+    },
+    {
+      "korean": "짐을 맡길 곳이 있어요?",
+      "japanese": "荷物を預けられるところ、ありますか.",
+      "chinese": "有存包的地方吗？",
+      "english": "Is there somewhere I can leave my baggage?"
+    },
+    {
+      "korean": "오디오 가이드는 어디서 받아요?",
+      "japanese": "オーディオガイドはどこにありますか.",
+      "chinese": "音频导游服务在哪儿提供？",
+      "english": "Where can I get an audio guide?"
+    }
+  ]
+}
